@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Ortho
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+MetacityTheme=OrthoMetacity
+ButtonLayout=:minimize,maximize,close
